@@ -37,6 +37,6 @@ The integration typically involves three main components:
 
 ## Example
 
-Here's a simplified example of how to run a simulation using the integrated environment:
+There is a example in the example folder name run_simulations.py. You can check that out as a example of this implementation.
 
 This example demonstrates the basic workflow of integrating Mesa with OpenAI Gym, highlighting the ease of combining agent-based modeling with reinforcement learning to explore complex adaptive systems.
